@@ -1,6 +1,6 @@
 # galeria-2---grid
 
-![](jojo.png)
+![](![alt text](jojo.png))
 
 desenvolvido nas aulas da disciplina linguagem de marcação na escola SENAI jandira
 
