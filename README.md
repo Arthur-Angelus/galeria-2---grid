@@ -1,4 +1,4 @@
-# galeria-2---grid
+# Galeria-2---grid
 
 ![](![alt text](jojo.png))
 
